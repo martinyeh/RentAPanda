@@ -11,6 +11,7 @@ public enum RecurEnum {
     Monthly(28);
 
     private int id; // Could be other data type besides int
+
     private RecurEnum(int id) {
         this.id = id;
     }

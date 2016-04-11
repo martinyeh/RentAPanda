@@ -8,6 +8,78 @@
         revision="23.0.1"
         sha1="62209cacb78ffe64f71ed8527fd08d8fbb9fd433"/>
     <item
+        dex="/Users/martinyeh/Documents/workspace/RentAPanda/app/build/intermediates/pre-dexed/debug/classes-703cfe13c5026404a67be11728e0774da7abe4bd.jar"
+        jar="/Users/martinyeh/Documents/workspace/RentAPanda/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/8.4.0/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a"/>
+    <item
+        dex="/Users/martinyeh/Documents/workspace/RentAPanda/app/build/intermediates/pre-dexed/debug/classes-d9ca5ba0f44bb3cebf2110b0688e6ff544e8e89b.jar"
+        jar="/Users/martinyeh/Documents/workspace/RentAPanda/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce"/>
+    <item
+        dex="/Users/martinyeh/Documents/workspace/RentAPanda/app/build/intermediates/pre-dexed/debug/classes-d561fce13c799bb8a27457500d2d6ab389627770.jar"
+        jar="/Users/martinyeh/Documents/workspace/RentAPanda/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1"/>
+    <item
+        dex="/Users/martinyeh/Documents/workspace/RentAPanda/app/build/intermediates/pre-dexed/debug/classes-717ea87381bf16a581480cbe5808cba8f4c009b7.jar"
+        jar="/Users/martinyeh/Documents/workspace/RentAPanda/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48"/>
+    <item
+        dex="/Users/martinyeh/Documents/workspace/RentAPanda/app/build/intermediates/pre-dexed/debug/classes-ffbbb44fad5c8b3b41ad883472aa9f201860ddb4.jar"
+        jar="/Users/martinyeh/Documents/workspace/RentAPanda/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c"/>
+    <item
+        dex="/Users/martinyeh/Documents/workspace/RentAPanda/app/build/intermediates/pre-dexed/debug/classes-695f6e4110bd37f281b3c60ad9f63053a4f30353.jar"
+        jar="/Users/martinyeh/Documents/workspace/RentAPanda/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.4.0/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e"/>
+    <item
+        dex="/Users/martinyeh/Documents/workspace/RentAPanda/app/build/intermediates/pre-dexed/debug/classes-ac0a056ff7a0a042c77b15e773321f3e3376f53f.jar"
+        jar="/Users/martinyeh/Documents/workspace/RentAPanda/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.4.0/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c"/>
+    <item
+        dex="/Users/martinyeh/Documents/workspace/RentAPanda/app/build/intermediates/pre-dexed/debug/classes-397f6d49be3c8446ca5977b29f6016da6ceb5ebf.jar"
+        jar="/Users/martinyeh/Documents/workspace/RentAPanda/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.4.0/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a78298e7724d5440d210bcb946b3493250d354d"/>
+    <item
+        dex="/Users/martinyeh/Documents/workspace/RentAPanda/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-5fa9b8dad796e2023ccba38ea65eadff5f736840.jar"
+        jar="/Users/martinyeh/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e"/>
+    <item
+        dex="/Users/martinyeh/Documents/workspace/RentAPanda/app/build/intermediates/pre-dexed/debug/classes-6e1ea4822e5770f5ce99959b0acbd2db39ef48bd.jar"
+        jar="/Users/martinyeh/Documents/workspace/RentAPanda/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab"/>
+    <item
+        dex="/Users/martinyeh/Documents/workspace/RentAPanda/app/build/intermediates/pre-dexed/debug/classes-43353eb5f03839de5f2ee9c344bbcc93f539a085.jar"
+        jar="/Users/martinyeh/Documents/workspace/RentAPanda/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.4.0/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac"/>
+    <item
+        dex="/Users/martinyeh/Documents/workspace/RentAPanda/app/build/intermediates/pre-dexed/debug/classes-71e26e50eee90403cce48a5b593fddb086140517.jar"
+        jar="/Users/martinyeh/Documents/workspace/RentAPanda/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/8.4.0/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46"/>
+    <item
         dex="/Users/martinyeh/Documents/workspace/RentAPanda/app/build/intermediates/pre-dexed/debug/classes-c29dbb654047aa01c245c4c0094a1ef6381f0c03.jar"
         jar="/Users/martinyeh/Documents/workspace/RentAPanda/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.4.0/classes.jar"
         jumboMode="false"
@@ -38,23 +110,11 @@
         revision="23.0.1"
         sha1="aa92916125166649d8ad4ba3940c3dd7515596d3"/>
     <item
-        dex="/Users/martinyeh/Documents/workspace/RentAPanda/app/build/intermediates/pre-dexed/debug/classes-703cfe13c5026404a67be11728e0774da7abe4bd.jar"
-        jar="/Users/martinyeh/Documents/workspace/RentAPanda/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/8.4.0/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a"/>
-    <item
         dex="/Users/martinyeh/Documents/workspace/RentAPanda/app/build/intermediates/pre-dexed/debug/classes-5843af5159a2f51ce6b8b4ed32b448191107629a.jar"
         jar="/Users/martinyeh/Documents/workspace/RentAPanda/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.4.0/classes.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="e167a34eaca0b31704212f43f9576ea84e05046f"/>
-    <item
-        dex="/Users/martinyeh/Documents/workspace/RentAPanda/app/build/intermediates/pre-dexed/debug/classes-d9ca5ba0f44bb3cebf2110b0688e6ff544e8e89b.jar"
-        jar="/Users/martinyeh/Documents/workspace/RentAPanda/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce"/>
     <item
         dex="/Users/martinyeh/Documents/workspace/RentAPanda/app/build/intermediates/pre-dexed/debug/classes-ada3a054afdd08fd37f6a847229f932e27dc0b00.jar"
         jar="/Users/martinyeh/Documents/workspace/RentAPanda/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/8.4.0/classes.jar"
@@ -86,53 +146,17 @@
         revision="21.1.1"
         sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782"/>
     <item
-        dex="/Users/martinyeh/Documents/workspace/RentAPanda/app/build/intermediates/pre-dexed/debug/classes-d561fce13c799bb8a27457500d2d6ab389627770.jar"
-        jar="/Users/martinyeh/Documents/workspace/RentAPanda/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="a8412b654dab86d57bf90683367488211c8a81f1"/>
-    <item
-        dex="/Users/martinyeh/Documents/workspace/RentAPanda/app/build/intermediates/pre-dexed/debug/classes-717ea87381bf16a581480cbe5808cba8f4c009b7.jar"
-        jar="/Users/martinyeh/Documents/workspace/RentAPanda/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="c31e21b53ff2f74664e498248d01453a32e32d48"/>
-    <item
-        dex="/Users/martinyeh/Documents/workspace/RentAPanda/app/build/intermediates/pre-dexed/debug/classes-ffbbb44fad5c8b3b41ad883472aa9f201860ddb4.jar"
-        jar="/Users/martinyeh/Documents/workspace/RentAPanda/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="65d086ee9daaf87b5af62ad24471edafa433354c"/>
-    <item
         dex="/Users/martinyeh/Documents/workspace/RentAPanda/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0-373014c4861212a6b6254b4fecd70f066d3f6bbe.jar"
         jar="/Users/martinyeh/Documents/workspace/RentAPanda/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/libs/internal_impl-23.0.0.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe"/>
     <item
-        dex="/Users/martinyeh/Documents/workspace/RentAPanda/app/build/intermediates/pre-dexed/debug/classes-695f6e4110bd37f281b3c60ad9f63053a4f30353.jar"
-        jar="/Users/martinyeh/Documents/workspace/RentAPanda/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.4.0/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e"/>
-    <item
         dex="/Users/martinyeh/Documents/workspace/RentAPanda/app/build/intermediates/pre-dexed/debug/classes-4a2fc0359193b01b48f9c9db8fda0dd82f7b81e2.jar"
         jar="/Users/martinyeh/Documents/workspace/RentAPanda/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.4.0/classes.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="551e78f21acf69ebfb489c0e79647824c838013e"/>
-    <item
-        dex="/Users/martinyeh/Documents/workspace/RentAPanda/app/build/intermediates/pre-dexed/debug/classes-ac0a056ff7a0a042c77b15e773321f3e3376f53f.jar"
-        jar="/Users/martinyeh/Documents/workspace/RentAPanda/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.4.0/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c"/>
-    <item
-        dex="/Users/martinyeh/Documents/workspace/RentAPanda/app/build/intermediates/pre-dexed/debug/classes-397f6d49be3c8446ca5977b29f6016da6ceb5ebf.jar"
-        jar="/Users/martinyeh/Documents/workspace/RentAPanda/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.4.0/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="1a78298e7724d5440d210bcb946b3493250d354d"/>
     <item
         dex="/Users/martinyeh/Documents/workspace/RentAPanda/app/build/intermediates/pre-dexed/debug/classes-1593e0a4ce9ddf787d1724aa5583cd0c4ab243bc.jar"
         jar="/Users/martinyeh/Documents/workspace/RentAPanda/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/8.4.0/classes.jar"
@@ -145,12 +169,6 @@
         jumboMode="false"
         revision="23.0.1"
         sha1="613298b7aa012f121ce542881c0a599ebd8078f2"/>
-    <item
-        dex="/Users/martinyeh/Documents/workspace/RentAPanda/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-5fa9b8dad796e2023ccba38ea65eadff5f736840.jar"
-        jar="/Users/martinyeh/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e"/>
     <item
         dex="/Users/martinyeh/Documents/workspace/RentAPanda/app/build/intermediates/pre-dexed/debug/classes-dc24cd246b28269fd057870cf5ab90ab439789d1.jar"
         jar="/Users/martinyeh/Documents/workspace/RentAPanda/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/8.4.0/classes.jar"
@@ -170,12 +188,6 @@
         revision="23.0.1"
         sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb"/>
     <item
-        dex="/Users/martinyeh/Documents/workspace/RentAPanda/app/build/intermediates/pre-dexed/debug/classes-6e1ea4822e5770f5ce99959b0acbd2db39ef48bd.jar"
-        jar="/Users/martinyeh/Documents/workspace/RentAPanda/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.1"
-        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab"/>
-    <item
         dex="/Users/martinyeh/Documents/workspace/RentAPanda/app/build/intermediates/pre-dexed/debug/classes-71a282dfe646ef198e16c056d29304b783f1c85a.jar"
         jar="/Users/martinyeh/Documents/workspace/RentAPanda/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/classes.jar"
         jumboMode="false"
@@ -185,19 +197,7 @@
         dex="/Users/martinyeh/Documents/workspace/RentAPanda/app/build/intermediates/pre-dexed/debug/classes-43353eb5f03839de5f2ee9c344bbcc93f539a085.jar"
         jar="/Users/martinyeh/Documents/workspace/RentAPanda/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.4.0/classes.jar"
         jumboMode="false"
-        revision="23.0.1"
-        sha1="04de44f90606c77f3b28cf44861f306290505aac"/>
-    <item
-        dex="/Users/martinyeh/Documents/workspace/RentAPanda/app/build/intermediates/pre-dexed/debug/classes-43353eb5f03839de5f2ee9c344bbcc93f539a085.jar"
-        jar="/Users/martinyeh/Documents/workspace/RentAPanda/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.4.0/classes.jar"
-        jumboMode="false"
         revision="21.1.1"
         sha1="04de44f90606c77f3b28cf44861f306290505aac"/>
-    <item
-        dex="/Users/martinyeh/Documents/workspace/RentAPanda/app/build/intermediates/pre-dexed/debug/classes-71e26e50eee90403cce48a5b593fddb086140517.jar"
-        jar="/Users/martinyeh/Documents/workspace/RentAPanda/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/8.4.0/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46"/>
 
 </pre-dex-items>

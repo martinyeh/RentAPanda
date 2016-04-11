@@ -60,7 +60,7 @@ class MyAsyncTask extends AsyncTask<String, Integer, ArrayList<HashMap<String, S
 
 
                 if (map.get("recurrency") != null) {
-                    map.put("recurrency", RecurEnum.fromId(Integer.parseInt(map.get("recurrency"))).name() );
+                    map.put("recurrency", RecurEnum.fromId(Integer.parseInt(map.get("recurrency"))).name());
                 }
 
                 mylist.add(map);
